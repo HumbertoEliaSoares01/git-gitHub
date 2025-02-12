@@ -2,7 +2,7 @@
 ***
 ## [![logo-git](https://avatars.githubusercontent.com/u/8683385?s=48&v=4) referência Git](https://git-scm.com/doc)
 ***
-## [![logo-git](https://avatars.githubusercontent.com/u/8683385?s=48&v=4) Pay List <br>Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+## [![logo-git](https://avatars.githubusercontent.com/u/8683385?s=48&v=4) Play List <br>Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ***
 ## [guia-markdown.pdf](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 ***
