@@ -1,0 +1,30 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+body{
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: rgba(255, 255, 255, 1);
+    color:rgba(0, 0, 0, 0.5);
+}
+hr{
+    width: 500px;
+    border-width: 2px;
+    background-color: rgba(0, 0, 0, 0.5);;
+}
+img{
+    width: 50%;
+    opacity: 0.5;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+ul{
+    list-style: none;
+}
+a{
+    color:rgba(0, 0, 0, 0.5);
+}
