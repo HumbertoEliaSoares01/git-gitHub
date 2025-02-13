@@ -1,0 +1,7 @@
+Este é meu primeiro código no GitHub
+====================================
+Alteração feita "meuCodigo.txt"
+Esta alteração foi feita no arquivo "meuCodigo.txt" 
+na recém criada nova branch chamada "nanovaBranch".
+==================
+consertando o erro
