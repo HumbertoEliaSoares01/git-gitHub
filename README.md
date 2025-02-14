@@ -4,7 +4,7 @@
 ***
 ## [![logoYouTube](YouTube.ico) Play List - Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ***
-## [![gitIcone](https://avatars.githubusercontent.com/u/8683378?v=4&size=40) guia-markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+## [![gitIcone](markdown.ico) guia-markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 ***
 ## [![logo-rafaBallerini](https://yt3.ggpht.com/S8u66bTpfWDYoyM_bVsgiLRwsHvlKHR_EetDczOD9bTZohhaL0ncKgw499fLsYx2kTMZFv7eYZk=s48-c-k-c0x00ffffff-no-rj) Git e Github - Play List Youtube](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8)
 ***
