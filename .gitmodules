@@ -1,3 +1,27 @@
 [submodule "CursoEmVideoGitGitHub"]
 	path = CursoEmVideoGitGitHub
 	url = https://github.com/HumbertoEliaSoares01/CursoEmVideoGitGitHub
+[submodule "Fernanda-Kipper-Dev"]
+	path = Fernanda-Kipper-Dev
+	url = https://github.com/HumbertoEliaSoares01/Fernanda-Kipper-Dev
+[submodule "HashtagProgramacao"]
+	path = HashtagProgramacao
+	url = https://github.com/HumbertoEliaSoares01/HashtagProgramacao
+[submodule "MatheusBattisti"]
+	path = MatheusBattisti
+	url = https://github.com/HumbertoEliaSoares01/MatheusBattisti
+[submodule "ProgramacaoWeb"]
+	path = ProgramacaoWeb
+	url = https://github.com/HumbertoEliaSoares01/ProgramacaoWeb
+[submodule "ProjetoGit"]
+	path = ProjetoGit
+	url = https://github.com/HumbertoEliaSoares01/ProjetoGit
+[submodule "ProjetoDevAprender"]
+	path = ProjetoDevAprender
+	url = https://github.com/HumbertoEliaSoares01/ProjetoDevAprender
+[submodule "Projeto-Git"]
+	path = Projeto-Git
+	url = https://github.com/HumbertoEliaSoares01/Projeto-Git
+[submodule "TemposEsquisitos"]
+	path = TemposEsquisitos
+	url = https://github.com/HumbertoEliaSoares01/TemposEsquisitos
