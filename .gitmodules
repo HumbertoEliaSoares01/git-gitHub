@@ -25,3 +25,6 @@
 [submodule "TemposEsquisitos"]
 	path = TemposEsquisitos
 	url = https://github.com/HumbertoEliaSoares01/TemposEsquisitos
+[submodule "projeto-git"]
+	path = projeto-git
+	url = https://github.com/HumbertoEliaSoares01/projeto-git
