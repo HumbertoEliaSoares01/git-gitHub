@@ -1,0 +1,229 @@
+@charset "UTF-8";
+
+.fotoPerfil{
+    position: absolute;
+    top: 5px; left: 5px;
+    height: 100px; width: 100px;
+    border-radius: 50%;
+}
+#logo-git{
+    position: absolute;
+    top: 30px; left: 50px;
+    opacity: 0.5;
+    height: 10%; width: 10%;
+}
+
+#logo-github{
+    position: absolute;
+    top: 22px; left: 200px;
+    opacity: 0.5;
+    height: 10%; width: 7%;
+}
+#logo-curso-em-video{
+    position: absolute;
+    width: 18%; height: 15%;
+    top: 5px; left: 50px;
+}
+header{ 
+    position: relative;
+    border-bottom: 0.1px solid #000;
+    box-shadow: 4px 4px 8px #000;
+    height: 180px;
+    background-image: linear-gradient(to bottom,#edd9a3ff,#cea07eff,#472207);
+    padding: 5px;
+    margin: 5px;
+}
+header h1{
+    position: absolute;
+    top: 30px; left: 25px;
+    font-size: 72px; color: #F2F2F2;		 
+    font-family: 'Finger Paint', cursive; 
+    color: #ffffff;
+    text-align: left; 
+    text-shadow: 6px 6px 10px rgba(0,0,0,.6);
+}
+
+
+
+.item{
+    position: relative;
+    border: 0.1px solid #000; 
+    box-shadow: 4px 4px 8px #000;
+    padding: 10px;
+    margin: 20px 20px 20px -20px;
+    background-image: linear-gradient(to bottom,#edd9a3ff,#cea07eff,#472207);
+}
+.solo{
+    display: block; 
+    margin: auto;
+}
+.topico{
+    columns: 2; 
+    padding: 10px;    
+}
+.topico a{
+    color: #ffffff;
+}
+/* .topico:hover{
+    transform: scale(1.1,1.3); 
+    transition-duration: 2s;
+} */
+.topico > li{
+    text-align: justify;
+    font-size: 22px; 
+    list-style: none;
+}
+.topico > li:hover{
+    /* transform: scale(1.2); 
+    transition-duration: 0.8s; */
+    color: #000;
+    font-weight: bolder;
+    text-shadow: 0px 0px 10px #ffffff;
+}
+p.topico{    
+    border-bottom: 1px solid #ffffff;
+}
+.topico > p{
+    font-size: 28px; 
+    text-align: justify;;
+}
+.topico > p:hover{
+    text-shadow: 0px 0px 10px #ffffff;
+}
+.topico-solo a{
+    color: #ffffff;
+}
+.topico-solo{
+    columns: 1; 
+    padding-bottom: 30px;    
+}
+.topico-solo:hover{
+    text-shadow: 0px 0px 10px #ffffff;
+}
+.topico-solo > li{
+    font-size: 22px; 
+    list-style: none;
+}
+.topico-solo > li:hover{
+    /* transform: scale(1.2); 
+    transition-duration: 0.8s; */
+    color: #000;
+    font-weight: bolder;
+    text-shadow: 0px 0px 10px #ffffff;
+}
+/*p.topico-solo{    
+    border-bottom: 1px solid #ffffff;
+}*/
+.topico-solo > p{
+    font-size: 28px; 
+    text-align: justify;
+}
+.topico-solo >p:hover{
+    text-shadow: 0px 0px 10px #ffffff;
+}
+.video{
+    text-align: center; 
+    padding: 20px;
+    /*border-bottom: 1px solid #ffffff;*/
+}
+.menu ul li{
+    background-color: #de89beff; 
+    color: #ffffff;
+    float: left;    /* Dispões os ítens horizontalmente */
+    width: 180px;
+    height: 40px;
+    display: none;  /* Tira as bolinhas */
+    text-align: center;
+    line-height: 40px;  /* centraliza verticalmente "line-height = height = 40px" */ 
+    font-size: 25px;
+}
+.menu{ 
+    display: block; opacity: .8;
+}         
+.menu ul{
+    padding: 0px;    /* tira o avanço e a linha */
+    position: absolute; top: -2px; right: 44px; /* posição absoluta no site */
+}
+.menu ul ul{
+    display: none;
+    position: relative; left: 0px;
+}
+.menu ul ul ul{margin-left: 200px; top: -40px;}
+.menu ul li:hover{background-color: #472207;}
+.menu ul li:hover > ul{display: block; float: left;}
+.botao{
+    border: 2px solid #000;
+    padding: 20px 50px 20px 50px;
+    background-color: #cecece;
+    margin-left: 50px ;
+    /*
+    background-image: linear-gradient(to right, #edd9a3ff, #de89beff, #472207);
+    */
+}
+.icone{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 40px #fff;
+    opacity: 0.5;
+}
+.imgMD{
+    display: block;
+    margin: 20px auto;
+    height: 100px;
+}
+body{
+    background-image: linear-gradient(to bottom, #edd9a3ff, #cea07eff, #472207);
+    padding: 20px -10px 20px 10px;
+    margin: 20px 20px 10px 20px;
+}
+hr{
+    border-color: #000;
+    border-width: 2px;
+    margin: 50px auto;
+    width: 300px;
+}
+main ul li h2{
+    margin-top: -10px;
+}
+h1{font-size: 56px; text-align: center;}
+h2{font-size: 36px;}
+h3{font-size: 24px; color: #fff;}
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 2px 20px;
+}
+p:hover{
+    text-shadow: 0px 0px 10px #ffffff;
+}
+a{ 
+    color: #000; 
+    text-decoration: none; 
+    padding: 10px;
+}
+a:hover{ 
+    color: #fff; 
+    text-decoration: underline;
+    text-shadow: 0px 0px 20px #000;
+}
+video{
+    width: 50%;
+    padding: 10px;
+}
+img{margin: 20px; width: 40%;}
+img:hover{
+    transform: scale(1.2); 
+    transition-duration: 0.8s;
+    box-shadow: 0px 0px 20px #ffffff;
+}
+ol{
+    padding-top: 30px;
+}
+iframe{
+    padding: 10px;
+}
+footer{ border-top: 2px solid #fff; }
+footer > p{text-align: center;}
