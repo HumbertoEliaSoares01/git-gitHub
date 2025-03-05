@@ -1,5 +1,9 @@
 @charset "UTF-8";
-
+:root{
+    --cor001: #edd9a3ff;
+    --cor002: #cea07eff;
+    --cor003: #472207;
+}
 .fotoPerfil{
     position: absolute;
     top: 5px; left: 5px;
@@ -29,7 +33,7 @@ header{
     border-bottom: 0.1px solid #000;
     box-shadow: 4px 4px 8px #000;
     height: 180px;
-    background-image: linear-gradient(to bottom,#edd9a3ff,#cea07eff,#472207);
+    background-image: linear-gradient(to bottom, var(--cor001), var(--cor002), var(--cor003));
     padding: 5px;
     margin: 5px;
 }
@@ -51,7 +55,7 @@ header h1{
     box-shadow: 4px 4px 8px #000;
     padding: 10px;
     margin: 20px 20px 20px -20px;
-    background-image: linear-gradient(to bottom,#edd9a3ff,#cea07eff,#472207);
+    background-image: linear-gradient(to bottom,var(--cor001),var(--cor002),var(--cor003));
 }
 .solo{
     display: block; 
@@ -149,7 +153,7 @@ p.topico{
     position: relative; left: 0px;
 }
 .menu ul ul ul{margin-left: 200px; top: -40px;}
-.menu ul li:hover{background-color: #472207;}
+.menu ul li:hover{background-color: var(--cor003);}
 .menu ul li:hover > ul{display: block; float: left;}
 .botao{
     border: 2px solid #000;
@@ -157,7 +161,7 @@ p.topico{
     background-color: #cecece;
     margin-left: 50px ;
     /*
-    background-image: linear-gradient(to right, #edd9a3ff, #de89beff, #472207);
+    background-image: linear-gradient(to right, var(--cor001), #de89beff, var(--cor003));
     */
 }
 .icone{
@@ -175,7 +179,7 @@ p.topico{
     height: 100px;
 }
 body{
-    background-image: linear-gradient(to bottom, #edd9a3ff, #cea07eff, #472207);
+    background-image: linear-gradient(to bottom, var(--cor001), var(--cor002), var(--cor003));
     padding: 20px -10px 20px 10px;
     margin: 20px 20px 10px 20px;
 }
